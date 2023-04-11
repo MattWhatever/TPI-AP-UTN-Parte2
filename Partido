@@ -1,0 +1,11 @@
+public class Partido {
+
+    Equipo equipo1;
+    Equipo getEquipo2;
+    int golesEquipo1;
+    int golesEquipo2;
+
+    void  resultado(Equipo ResultadoEnum){
+        
+    }
+}
