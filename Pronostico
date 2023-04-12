@@ -1,10 +1,14 @@
 public class Pronostico {
 
-    Partido partido;
-    Equipo equipo;
-    ResultadoEnum resultado;
+    private Partido partido;
+    private Equipo equipo;
+    private ResultadoEnum resultado;
 
-    public void puntos(int){
 
+
+    public int puntos(){
+
+
+        return 0;
     }
 }
