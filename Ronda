@@ -1,10 +1,11 @@
 public class Ronda {
 
-    String nro;
-    Partido[] partidos;
+    private String nro;
+    private Partido[] partidos;
 
-     public void puntos (int){
+     public int puntos (){
 
-    }
+         return 0;
+     }
 
 }
