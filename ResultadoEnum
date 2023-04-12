@@ -1,13 +1,4 @@
-public class ResultadoEnum {
-
-    public void ganador(){
-
-    }
-    public void perdedor(){
-
-    }
-
-    public void empate(){
-
-    }
+public enum ResultadoEnum{
+    GANADOR, PERDEDOR, EMPATE;
 }
+
